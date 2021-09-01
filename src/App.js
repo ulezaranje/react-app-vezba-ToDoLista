@@ -4,7 +4,6 @@ import { v4 as uuidv4 } from 'uuid';
 
 
 
-const { v1: uuidv1 } = require('uuid');
 
 const LOCAL_STORAGE_KEY = 'todoApp.todos'
 
